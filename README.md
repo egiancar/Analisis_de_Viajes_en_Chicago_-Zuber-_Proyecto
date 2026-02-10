@@ -6,6 +6,7 @@ El objetivo de este proyecto fue analizar datos reales de viajes en taxi en Chic
 ## Tecnologias Utilizadas
 - Python, pandas, NumPy
 - matplotlib, seaborn
+- SQL
 - Limpieza y preparación de datos
 - EDA (Exploratory Data Analysis)
 - Visualización de datos
